@@ -54,4 +54,4 @@ N/A
 ## Acknowledgments
 
   - Based on the [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-1) course project 
-  - Inspired by the popular nord stage synthesizer keyboards. Used in major studios and poular musicians everywhere!
+  - Inspired by the popular nord stage synthesizer keyboards, used by major studios and poular musicians everywhere!
